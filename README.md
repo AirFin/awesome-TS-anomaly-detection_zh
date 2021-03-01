@@ -1,4 +1,6 @@
-翻译自 https://github.com/rob-med/awesome-TS-anomaly-detection
+- 本文GitHub地址 https://github.com/SharkFin-top/awesome-TS-anomaly-detection_zh
+- 本文语雀地址 https://www.yuque.com/alipayqgthu1irbf/sharkfin/nw54t7
+- 翻译自 https://github.com/rob-med/awesome-TS-anomaly-detection
 
 # 绝佳的时间序列异常检测工具
 
